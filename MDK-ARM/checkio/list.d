@@ -1,0 +1,12 @@
+checkio\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+checkio\list.o: D:\Tobias\keil5pro\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+checkio\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+checkio\list.o: D:\Tobias\keil5pro\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+checkio\list.o: D:\Tobias\keil5pro\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+checkio\list.o: ../Inc/FreeRTOSConfig.h
+checkio\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+checkio\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+checkio\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+checkio\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM0/portmacro.h
+checkio\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+checkio\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
